@@ -1174,7 +1174,6 @@ Overviews of all the work from notable People like Plugins Developers, Theme Des
 -  [[01 - Community/People/jordaeday|jordaeday]]
 -  [[01 - Community/People/jordanhandy|jordanhandy]]
 -  [[01 - Community/People/JorgEdmundo|JorgEdmundo]]
--  [[01 - Community/People/jose-elias-alvarez|jose-elias-alvarez]]
 -  [[01 - Community/People/Josh Plunkett|Josh Plunkett]]
 -  [[01 - Community/People/joshavanier|joshavanier]]
 -  [[01 - Community/People/JoshKasap|JoshKasap]]
