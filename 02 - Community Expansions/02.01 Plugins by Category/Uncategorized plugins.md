@@ -636,7 +636,6 @@ Plugins which have not yet been categorized by the community.
 - [[ear-training|Ear Training]]: Get ear training exercises inside your vault.
 - [[easy-bake|Easy Bake]]: Easily compile many Obsidian notes down to a single file.
 - [[easy-copy|Easy Copy]]: Easily copy the text within inline code, bold text (and many other formats), or quickly generate an elegant link to a heading.
-- [[easy-fonts|Easy Fonts]]: Easily load custom fonts, even on mobile.
 - [[easy-keep-view|Easy Keep View]]: Easy Keep View mimics the Google Keep interface, allowing you to view and manage your notes with image thumbnails and excerpts.
 - [[easy-test|Easy Test]]: Easily create simple tests
 - [[easy-timeline|Easy Timeline]]: Create beautiful visual timelines from your notes using natural language dates (e.g., 'yesterday', 'next week'). Customize events with inline metadata, icons, and statuses. Supports relative dates via frontmatter properties and timezones.
@@ -848,7 +847,6 @@ Plugins which have not yet been categorized by the community.
 - [[generate-hash|Generate Hash]]: Generates a cryptographically strong pseudorandom hash.
 - [[generate-timeline|Generate Timeline]]: Generate timelines from tag folder file or metadata automatically by any time properties.
 - [[generic-initiative-tracker|Generic Initiative Tracker]]: TTRPG Generic Initiative Tracker for Obsidian.md
-- [[geocoding-properties|Geocoding Properties]]: Insert address / location data from geocoding APIs as Obsidian properties.
 - [[get-info-plugin|Get Info]]: Get Info is a plugin that tucks a menu inside your status bar and shows helpful information for your chosen file 📄.
 - [[get-stock-information|Get Stock Information]]: This plugin takes a stock symbol and returns a callout block with the latest stock information.
 - [[geulo-youtube-liked-video|Geulo]]: Fetch and manage all the YouTube videos you've liked, search and sort them, summarize with LLM (AI) and add them to your daily note.
@@ -1490,7 +1488,6 @@ Plugins which have not yet been categorized by the community.
 - [[omglol-statuslog-publish|Omg.publish]]: Publish selected text to omg.lol service.
 - [[omnisearch|Omnisearch]]: A search engine that just works
 - [[obsidian-omnivore|Omnivore]]: This is an Omnivore plugin for Obsidian.
-- [[on-this-day|On This Day]]: Show your daily notes from this day in a simple panel view.
 - [[on-this-day-i|On This Day I]]: AI tools for Daily Journals
 - [[one-step-wiki-link|One Step Wiki Link]]: 一步添加 wiki 链接
 - [[onlyworlds-builder|OnlyWorlds Builder]]: World building structure with OnlyWorlds integration
@@ -1558,7 +1555,6 @@ Plugins which have not yet been categorized by the community.
 - [[paste-from-history|Paste From History]]: Paste from the editor's recent clipboard history.
 - [[paste-image-into-property|Paste Image Into Property]]: Paste images from the clipboard into frontmatter properties in live preview.
 - [[paste-image-rename-convert|Paste Image Rename and Convert]]: Rename pasted images and convert them to webp or jpg
-- [[paste-link|Paste Link]]: Intelligently paste Markdown links.
 - [[paste-quote|Paste Quote]]: Helps with formatting and generating citations when pasting quotes from the clipboard.
 - [[paste-reformatter|Paste Reformatter]]: Reformat pasted text for precise control.
 - [[paste-as-embed|Paste as Embed]]: Paste text into a separate note, and embed the note.
